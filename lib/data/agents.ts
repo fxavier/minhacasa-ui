@@ -1,0 +1,32 @@
+export const agents = [
+  {
+    id: '1',
+    name: 'Ana Silva',
+    specialization: 'Imóveis de Luxo',
+    phone: '(11) 99999-1111',
+    email: 'ana.silva@greenestate.com',
+    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80',
+    properties: 48,
+    rating: 4.9,
+  },
+  {
+    id: '2',
+    name: 'Carlos Santos',
+    specialization: 'Apartamentos',
+    phone: '(11) 99999-2222',
+    email: 'carlos.santos@greenestate.com',
+    image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80',
+    properties: 36,
+    rating: 4.8,
+  },
+  {
+    id: '3',
+    name: 'Mariana Costa',
+    specialization: 'Casas e Condomínios',
+    phone: '(11) 99999-3333',
+    email: 'mariana.costa@greenestate.com',
+    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80',
+    properties: 42,
+    rating: 4.9,
+  },
+];
