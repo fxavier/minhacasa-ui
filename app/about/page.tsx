@@ -21,10 +21,11 @@ export default function AboutPage() {
 				<div>
 					<h2 className='text-2xl font-semibold mb-4'>Nossa História</h2>
 					<p className='text-muted-foreground'>
-						Fundada em 2024, a GreenEstate nasceu da visão de simplificar e
-						modernizar o processo de compra, venda e aluguel de imóveis no
-						Brasil. Nossa plataforma combina tecnologia de ponta com atendimento
-						personalizado para oferecer a melhor experiência possível.
+						Fundada em 2024, a Moz Casa nasceu da visão de simplificar e
+						modernizar o processo de compra, venda e aluguel de imóveis em
+						Moçambique. Nossa plataforma combina tecnologia de ponta com
+						atendimento personalizado para oferecer a melhor experiência
+						possível.
 					</p>
 				</div>
 				<div>
